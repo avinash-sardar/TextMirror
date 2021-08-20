@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Mirror</string>
+    <string name="btn_reverse_string">Submit</string>
+    <string name="edt_hint_reverse_string">Please provide your input</string>
+</resources>
